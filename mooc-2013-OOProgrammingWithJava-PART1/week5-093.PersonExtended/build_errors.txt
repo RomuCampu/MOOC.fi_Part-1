@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Chuqui\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-093.PersonExtended\nbproject\build-impl.xml:883: The following error occurred while executing this line:
+C:\Users\Chuqui\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-093.PersonExtended\nbproject\build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 11 seconds
