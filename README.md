@@ -13,7 +13,7 @@
 This course taught me the basics of the Java programming language and core Object-Oriented Programming concepts. The course is the first of a two semester line of classes from the University of Helsinki, Finland's computer science degree program. This, combined with the second part of the course, is the first year of computer science classes for CS majors.
 </p>
 
-<p><strong>I began this MOOC on<strong> February 2019</strong> and finished the first part of it on <strong>March 2019</strong>.
+<p>I began this MOOC on<strong> February 2019</strong> and finished the first part of it on <strong>March 2019</strong>.
 
 <p></p>
 
