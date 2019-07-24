@@ -17,8 +17,13 @@ This course taught me the basics of the Java programming language and core Objec
 
 <p></p>
 
+:+1:<strong> After finishing the first course</strong> I got accepted into a one year Java bootcamp at Intec-Brussels, a training center in Belgium. The bootcamp started on May/18/2018, and ~~if~~ once successful, it'll be the equivalent of over 2000 hours of programming in the Java language.
+
+<p></p>
+
  <h1 align="center">Week 1</h1></p>
  
+ <p></p>
  
  |Challenge|     Solution     |Challenge|     Solution     |
  |---------|------------------|---------|-------------------|
@@ -38,19 +43,39 @@ This course taught me the basics of the Java programming language and core Objec
  
  <h1 align="center">Week 2</h1></p>
 
- |Challenge|     Solution     |Challenge|     Solution      |Challenge|  Solution   |
- |---------|------------------|---------|-------------------|---------|-------------|
- |    25   |      [SumOfThreeNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-025.SumOfThreeNumbers) |    31   |       [LowerLimitAndUpperLimit](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-031.LowerLimitAndUpperLimit) |   37    |    [PrintingOutText](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-037.PrintingOutText) |
- |    26   |      [SumOfManyNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-026.SumOfManyNumbers) |    32   |       [TheSumOfSetOfNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-032.TheSumOfSetOfNumbers) |   38    |    [ManyPrints](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-038.ManyPrints) |
- |    27   |      [FromOneToHundred](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-027.FromOneToHundred) |    33   |       [TheSumBetweenTwoNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-033.TheSumBetweenTwoNumbers) |   39    |    [Printing](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-039.Printing) |
- |    28   |      [FromHundredToOne](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-028.FromHundredToOne) |    34   |       [Factorial](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-034.Factorial) |   40    |    [PrintingLikeboss](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-040.PrintingLikeboss) |
- |    29   |      [EvenNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-029.EvenNumbers) |    35   |       [SumOfThePowers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-035.SumOfThePowers) |   41    |    [GuessingNumberGame](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-041.GuessingNumberGame) |
- |    30   |      [UpToCertainNumber](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-030.UpToCertainNumber) |   36   |       [LoopsEndingRemembering](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-036.LoopsEndingRemembering)|   42    |    [Hangman](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-042.Hangman) |
+ |Challenge|  Solution  | Challenge |   Solution  |
+ |---------|------------|-----------|-------------|
+ |   25    |  [SumOfThreeNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-025.SumOfThreeNumbers)  |     34    |   [Factorial](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-034.Factorial)  | 
+|   26    |  [SumOfManyNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-026.SumOfManyNumbers)  |     35    |   [SumOfThePowers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-035.SumOfThePowers)  | 
+|   27    |  [FromOneToHundred](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-027.FromOneToHundred)  |     36    |   [LoopsEndingRemembering](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-036.LoopsEndingRemembering)  | 
+|   28    |  [FromHundredToOne](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-028.FromHundredToOne)  |     37    |   [PrintingOutText](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-037.PrintingOutText)  | 
+|   29    |  [EvenNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-029.EvenNumbers) |     38    |   [ManyPrints](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-038.ManyPrints)  | 
+|   30    |  [UpToCertainNumber](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-030.UpToCertainNumber)  |     39    |   [Printing](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-039.Printing)  | 
+|   31    |  [LowerLimitAndUpperLimit](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-031.LowerLimitAndUpperLimit) |     40    |   [PrintingLikeboss](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-040.PrintingLikeboss)  | 
+|   32    |  [TheSumOfSetOfNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-032.TheSumOfSetOfNumbers) |     41    |   [GuessingNumberGame](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-041.GuessingNumberGame) | 
+|   33    |  [TheSumBetweenTwoNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-033.TheSumBetweenTwoNumbers) |    42    |   [Hangman](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week2-042.Hangman)  |
 
 
-
+ <h1 align="center">Week 3</h1></p>
  
+ 
+ |Challenge|  Solution  | Challenge |   Solution  |
+|---------|------------|-----------|-------------|
+|   43    |  [SumOfNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-043.SumOfNumbers)  |     58    |   [RecurringWord](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-058.RecurringWord)  | 
+|   44    |  [Least](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-044.Least)  |     59    |   [WordsInReverseOrder](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-059.WordsInReverseOrder)  | 
+|   45    |  [Greatest](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-045.Greatest)  |     60    |   [WordsInAlphabeticalOrder](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-060.WordsInAlphabeticalOrder)  | 
+|   46    |  [AverageOfGivenNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-046.AverageOfGivenNumbers)  |     61    |   [NumberOfItems](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-061.NumberOfItems)  | 
+|   47    |  [LengthOfName](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-047.LengthOfName)  |     62    |   [RemoveLast](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-062.RemoveLast)  | 
+|   48    |  [FirstCharacter](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-048.FirstCharacter)  |     63    |   [SumOfNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-063.SumOfNumbers)  | 
+|   49    |  [LastCharacter](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-049.LastCharacter)  |     64    |   [AverageOfNumbers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-064.AverageOfNumbers)  | 
+|   50    |  [SeparatingFirstCharacters](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-050.SeparatingFirstCharacters)  |     65    |   [LengthsOfStrings](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-065.LengthsOfStrings)  | 
+|   51    |  [SeparatingCharacters](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-051.SeparatingCharacters)  |     66    |   [TheGreatest](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-066.TheGreatest)  | 
+|   52    |  [ReversingName](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-052.ReversingName)  |     67    |   [TheVariance](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-067.TheVariance)  | 
+|   53    |  [FirstPart](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-053.FirstPart)  |     68    |   [MoreThanOnce](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-068.MoreThanOnce)  | 
+|   54    |  [TheEndPart](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-054.TheEndPart)  |     69    |   [Palindrome](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-069.Palindrome)  | 
+|   55    |  [WordInsideWord](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-055.WordInsideWord)  |     70    |   [CombiningArrayLists](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-070.CombiningArrayLists)  | 
+|   56    |  [ReversingText](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-056.ReversingText)  |     71    |   [SmartCombining](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining)  | 
+|   57    |  [Words](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-057.Words)  |           |   []()  | 
 
-:+1:<strong> After finishing the first course</strong> I got accepted into a one year Java bootcamp at Intec-Brussels, a training center in Belgium. The bootcamp started on May/18/2018, and ~~if~~ once successful, it'll be the equivalent of over 2000 hours of programming in the Java language.
-<p></p>
+
 
