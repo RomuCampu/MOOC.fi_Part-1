@@ -13,11 +13,11 @@
 This course taught me the basics of the Java programming language and core Object-Oriented Programming concepts. The course is the first of a two semester line of classes from the University of Helsinki, Finland's computer science degree program. This, combined with the second part of the course, is the first year of computer science classes for CS majors.
 </p>
 
-<p><strong>I began this course in December of 2018</strong> and sadly enough, due to personal reasons I wasn't able to continue to work on it until<strong> February 2019</strong> so I decided to start over.</p> I finished the first part of the MOOC on <strong>March 2019</strong>.
+<p><strong>I began this MOOC on<strong> February 2019</strong> and finished the first part of it on <strong>March 2019</strong>.
 
 <p></p>
 
-:+1:<strong> After finishing the first course</strong> I got accepted into a one year Java bootcamp at Intec-Brussels, a training center in Belgium. The bootcamp started on May/18/2018, and ~~if~~ once successful, it'll be the equivalent of over 2000 hours of programming in the Java language.
+:+1:<strong> After finishing the first course</strong> I got elected for a one year Java bootcamp at [Intec-Brussels](http://www.intecbrussel.be/), a code school in Belgium, Brussels. The bootcamp started on May/18/2018, and ~~if~~ once successful, it'll be the equivalent of over 2000 hours of programming in the Java language.
 
 <p></p>
 
@@ -77,5 +77,41 @@ This course taught me the basics of the Java programming language and core Objec
 |   56    |  [ReversingText](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-056.ReversingText)  |     71    |   [SmartCombining](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining)  | 
 |   57    |  [Words](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-057.Words)  |           |   []()  | 
 
+<h1 align="center">Week 4</h1></p>
 
+|Challenge|  Solution  | Challenge |   Solution  |
+|---------|------------|-----------|-------------|
+|   72.1  |    [SmartCombining](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week3-071.SmartCombining)    |     77    |     [LyyraCard](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-077.LyyraCard)    |
+|   72.2  |    [YourFirstMoneyTransfer](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-072.2.YourFirstMoneyTransfer)    |     78    |     [ClockUsingCounter](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-078.ClockUsingCounter)    |
+|   72.3  |    [MoneyTransfers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-072.3.MoneyTransfers)    |     79    |     [NumberStatistics](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-079.NumberStatistics)    |
+|    73   |    [Product](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-073.Product)    |     80    |     [Dice](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-080.Dice)    |
+|    74   |    [Multiplier](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-074.Multiplier)    |     81    |     [PasswordRandomizer](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-081.PasswordRandomizer)    |
+|    75   |    [DecreasingCounter](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-075.DecreasingCounter)    |     82    |     [Lottery](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-082.Lottery)    |
+|    76   |    [Menu](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-076.Menu)    |     83    |     [HangmanLogic](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week4-083.HangmanLogic)    |
+
+
+<h1 align="center">Week 5</h1></p>
+
+
+|Challenge|  Solution  | Challenge |   Solution  |
+|---------|------------|-----------|-------------|
+|    84   |   [OverloadedCounter](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-084.OverloadedCounter)     |    89     |     [ClockObject](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-089.ClockObject)    |
+|    85   |   [Reformatory](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-085.Reformatory)     |    90     |     [TeamAndPlayers](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-090.TeamAndPlayers)    |
+|    86   |   [LyyraCardAndRegister](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-086.LyyraCardAndRegister)     |    91     |     [ExtendingMyDate](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-091.ExtendingMyDate)    |
+|    87   |   [ApartmentComparison](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-087.ApartmentComparison)     |    92     |     [DifferenceDate](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate)    |
+|    88   |   [Students](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-088.Students)     |    93     |     [PersonExtended](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week5-093.PersonExtended)    |
+
+
+<h1 align="center">Week 6</h1></p>
+
+
+|Challenge|  Solution  | Challenge |   Solution  |
+|---------|------------|-----------|-------------|
+|    94   |    [PhoneBook](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-094.PhoneBook)    |    101    |     [Library](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-101.Library)    |
+|    95   |    [Money](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-095.Money)    |    102    |     [GradeDistribution](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-102.GradeDistribution)    |
+|    96   |    [SumOfArray](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-096.SumOfArray)    |    103    |     [Birdwatcher](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-103.Birdwatcher)    |
+|    97   |    [ElegantPrinting](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-097.ElegantPrinting)    |    104    |     [Sorting](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-104.Sorting)    |
+|    98   |    [CopyAndReverse](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-098.CopyAndReverse)    |    105    |     [GuessingGame](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-105.GuessingGame)    |
+|    99   |    [ArrayToStars](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-099.ArrayToStars)    |    106    |     [BinarySearch](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-106.BinarySearch)    |
+|   100   |    [NightSky](https://github.com/RomuCampu/MOOC.fi_Part-1/tree/master/mooc-2013-OOProgrammingWithJava-PART1/week6-100.NightSky)    |           |             |
 
